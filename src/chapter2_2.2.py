@@ -75,6 +75,7 @@ def is_group(n):
                 return False
     
     #! Checking for inverses [Using gcd (Great Common Divisor)]
+    # Sources [https://stackoverflow.com/questions/11175131/code-for-greatest-common-divisor-in-python & https://www.geeksforgeeks.org/python/gcd-in-python/ ]
     for a in elem:
         if gcd(a, n) != 1:
             return False
