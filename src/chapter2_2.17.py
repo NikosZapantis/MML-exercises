@@ -1,7 +1,7 @@
 import numpy as np
 from sympy import Matrix, pprint
 
-print("~ 2.7 Linear Mapping Φ: R^3 → R^4 ~")
+print("~ 2.17 Linear Mapping Φ: R^3 → R^4 ~")
 
 # Transformation matrix
 A = np.array([[3, 2, 1],
