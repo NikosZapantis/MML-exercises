@@ -37,5 +37,5 @@ print(f"||u2|| = {norm_u2:.12f}")
 print("c2 = u2 / ||u2|| =", c2)
 print()
 
-print("\nChecks: <c1, c2> =", dot_c1_c2, "(it should be ~ 0)")
+print("\nChecks: <c1, c2> =", dot_c1_c2)
 print("||c1|| =", norm_c1, "||c2|| =", norm_c2, "(they should be 1)")
