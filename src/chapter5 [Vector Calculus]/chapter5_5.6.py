@@ -2,6 +2,8 @@ import sympy as sp
 
 #! Sources: [https://docs.sympy.org/latest/modules/matrices/expressions.html (for trace)]
 #! From theory
+#! For f(t) I used chain rule
+#! For g(x) I know from trace theory (basically on chapter 4) --> tr(AB) = tr(BA)
 
 #? f(t)
 n = 3
